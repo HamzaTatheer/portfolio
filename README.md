@@ -1,7 +1,9 @@
 ## My Portfolio
 
-View my Interatice portfolio at hamztatheer.vercel.app which simulates Ubuntu OS (Can be buggy. Changes still need to be made)
-
+``` View my Interatice portfolio at hamztatheer.vercel.app which simulates UBUNTU OS (Can be buggy. Changes still need to be made) ```
+<br/>
+<br/>
+<br/>
 
 <img src="https://github.com/HamzaTatheer/portfolio/blob/main/chrome_extension.gif?raw=true"/>
 
