@@ -1,5 +1,14 @@
 ## My Portfolio
 
+View my Interatice portfolio at hamztatheer.vercel.app which simulates Ubuntu OS (Can be buggy. Changes still need to be made)
+
+
+<img src="https://github.com/HamzaTatheer/portfolio/blob/main/chrome_extension.gif?raw=true"/>
+
+Chrome Extension that plays a sound every 30 minutes in order to remind you to drink water. It has a minimalistic animation of rising water according to how many glasses you drink daily. Option is also provided to change your goal of no of glasses per day as well as reminder timer
+
+
+
 
 <img src="https://github.com/HamzaTatheer/portfolio/blob/main/res.png"/>
 
