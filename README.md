@@ -5,6 +5,10 @@
 <br/>
 <br/>
 
+<img width='256px' src="https://github.com/HamzaTatheer/portfolio/blob/main/color_picker_demo.gif"/>
+
+Color Picker built with Javascript that uses dom manipulation to enable picking color
+
 <img src="https://github.com/HamzaTatheer/portfolio/blob/main/chrome_extension.gif?raw=true"/>
 
 Chrome Extension that plays a sound every 30 minutes in order to remind you to drink water. It has a minimalistic animation of rising water according to how many glasses you drink daily. Option is also provided to change your goal of no of glasses per day as well as reminder timer. This was built with clean vanilla javascript only.
@@ -38,7 +42,7 @@ The app Allows you to find a therapist According to your preference And chat wit
 
 
 
-<img src="https://github.com/HamzaTatheer/portfolio/blob/main/image4.jpg"/>
+<img height='328px' src="https://github.com/HamzaTatheer/portfolio/blob/main/image4.jpg"/>
 
 Learn Tafseer (React Native)
 
@@ -49,7 +53,7 @@ Used socket.io to implement custom chat logic where users join in as venter to b
 
 
 
-<img src="https://github.com/HamzaTatheer/portfolio/blob/main/image5.png"/>
+<img height='328px' src="https://github.com/HamzaTatheer/portfolio/blob/main/image5.png"/>
 
 Sleep Diary
 
